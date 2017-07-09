@@ -1,0 +1,4 @@
+ceph:
+    fsid: 31fbdb87-0bdd-453c-b20d-344d12bc6f2c
+    monitor-secret: AQCMTWFZqIHnIhAAXIFA6I+AMF3bonVqo1mddg==
+    osd-devices: /dev/vdb /dev/vdc /dev/vdd /dev/vde

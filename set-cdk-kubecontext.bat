@@ -1,0 +1,1 @@
+SET KUBECONFIG=.kube/config
